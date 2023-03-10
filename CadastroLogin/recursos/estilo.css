@@ -130,4 +130,9 @@ p, ul, ol{margin-bottom: 20px; font-size:17px; line-height: 1.5em;}
         color: #fff;
      }
 
-     .MeuFormulario h2{font-size: 16px; text-align: center; margin: 0 0 20px 0; text-transform: uppercase;}
+    small{font-size: 10px; text-transform: uppercase;}
+    small b{color:green !important;}
+
+    small i{color:red !important;}
+
+    .MeuFormulario h2{font-size: 16px; text-align: center; margin: 0 0 20px 0; text-transform: uppercase;}
